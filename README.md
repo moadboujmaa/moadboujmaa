@@ -1,16 +1,33 @@
-### Hi there 👋
+## ⁉️ Who Am I
 
-<!--
-**moadboujmaa/moadboujmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Moad Boujamaa, a FullStack developer from Tétouan 🕊️, Morocco 🇲🇦. Currently studying at 1337 Coding School.
 
-Here are some ideas to get you started:
+Passionate about coding, I specialize in crafting both frontend and backend solutions. Well-versed in languages like Python, JavaScript, C, and PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always exploring new technologies and staying updated with the latest trends. 
+
+## 💻 Languages and Tools:
+### Languages:
+<img src="https://skillicons.dev/icons?i=python,javascript,c,php&theme=dark" alt="languages"/>
+
+### Frontend:
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,redux,materialui&theme=dark" alt="frontend"/>
+
+### Backend:
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" alt="backend"/>
+
+### Databases:
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="databases"/>
+
+### Tools:
+<img src="https://skillicons.dev/icons?i=figma,postman,docker,vscode,git,linux&theme=dark" alt="tools"/>
+
+## ✉️ Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moadboujamaa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/MoadBoujamaa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
+
+## 🌐 More
+[![mboujama's 42 stats](https://badge.mediaplus.ma/kettlebells/mboujama)](https://profile.intra.42.fr/users/mboujama)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moadboujmaa&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
