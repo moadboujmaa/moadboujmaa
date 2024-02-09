@@ -30,4 +30,4 @@ Always exploring new technologies and staying updated with the latest trends.
 ## 🌐 More
 [![mboujama's 42 stats](https://badge.mediaplus.ma/kettlebells/mboujama)](https://profile.intra.42.fr/users/mboujama)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moadboujmaa&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moadboujmaa&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
